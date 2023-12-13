@@ -32,7 +32,7 @@ span{
 	overflow-x:hidden
 }
 .jd-app{
-	border-top:solid 30px #8a0606
+	border-top:solid 30px #0282cc
 }
 .jd-container{
 	width:940px;
@@ -122,7 +122,7 @@ span{
 	height:110px;
 	border-radius:50%;
 	overflow:hidden;
-	box-shadow:0 0 0 5px #8a0606;
+	box-shadow:0 0 0 5px #0282cc;
 	position:absolute;
 	left:5px;
 	top:-40px
@@ -146,7 +146,7 @@ span{
 .jd-btn-nav:after{
 	width:100%;
 	height:2px;
-	background:#8a0606;
+	background:#0282cc;
 	left:0;
 	bottom:0
 }
@@ -155,12 +155,12 @@ span{
 }
 .jd-btn-nav p{
 	font-size:.8rem;
-	color:#8a0606
+	color:#0282cc
 }
 .jd-box{
 	width:110px;
 	height:130px;
-	background: #8a0606;
+	background: #0282cc;
 	box-shadow:0 0 2px 1px rgba(0,0,0,.1);
 	padding:14px;
 	margin-bottom:20px;
@@ -211,7 +211,7 @@ span{
 	line-height:35px;
 	text-align:center;
 	font-size:.75rem;
-	color:#8a0606;
+	color:#0282cc;
 	background:#ff0000
 }
 .jd-videoBox{
